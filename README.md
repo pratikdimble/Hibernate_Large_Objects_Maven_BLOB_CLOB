@@ -1,0 +1,2 @@
+# Hibernate_Large_Objects_Maven_BLOB_CLOB
+This tutorial shows you how to map byte array (byte[]) or Binary Large Object (java.sql.Blob) of Java type to database type using Hibernate ORM framework. Byte array or Blob can be used to store large binary data such as files and images. According to Hibernate Types: A primitive byte[] is mapped to a JDBC VARBINARY.  A java.sql.Blob is mapped to a JDBC BLOB.
